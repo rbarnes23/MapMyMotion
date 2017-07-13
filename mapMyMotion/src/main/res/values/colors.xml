@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green">#00CD00</color>
+    <color name="blue">#151B8D</color>
+    <color name="red">#FF0000</color>
+    <color name="skyblue">#6698FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#424242</color>
+    <color name="image_border_start">#40990000</color>
+    <color name="image_border_end">#FF660000</color>
+    <color name="image_border_center">#FFFF3333</color>
+    <color name="snow">#eee9e9</color>
+    <color name="offyellow">#fad06e</color>
+    <color name="eucalyptus">#44D7A8</color>
+    <color name="caribbeangreen">#00CC99</color>
+    <color name="darkseagreen">#8FBC8F</color>
+    <color name="lightmossgreen">#ADDFAD</color>
+    <color name="lightyellow">#FFFFE0</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="nyanza">#E9FFDB</color>
+    <color name="oceanboatblue">#0077BE</color>
+    <color name="azure">#007FFF</color>
+    <color name="orange">#FFA500</color>
+    <color name="safety_orange">#FF6700</color>
+    <color name="light_gray">#D7D9D7</color>
+    <color name="transparent_color">#00000000</color>
+    <color name="actionbar_orange">#ffbb33</color>
+
+</resources>

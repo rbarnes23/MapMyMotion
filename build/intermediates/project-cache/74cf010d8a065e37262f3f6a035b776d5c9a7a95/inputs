@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\rbarn\StudioProjects\MapMyMotion\securityLibrary\libs\common-lang3.jar
+FILE_HASH=70d0d4ddef60cfa67f28fd3382fc631119380030
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

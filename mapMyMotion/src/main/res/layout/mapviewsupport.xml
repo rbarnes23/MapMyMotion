@@ -1,0 +1,267 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/oceanboatblue"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:context=".LayoutMain" >
+
+    <TableLayout
+        android:id="@+id/infoTable"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="2dp"
+        android:background="@color/skyblue"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/skyblue" >
+
+            <TextView
+                android:id="@+id/headingSpeed"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/skyblue"
+                android:text="Speed"
+                android:textColor="@color/offyellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/headingAvgSpeed"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/skyblue"
+                android:text="Avg Speed"
+                android:textColor="@color/offyellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/headingDistance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/skyblue"
+                android:text="Distance"
+                android:textColor="@color/offyellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/skyblue" >
+
+            <TextView
+                android:id="@+id/currentSpeed"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1px"
+                android:background="@color/offyellow"
+                android:gravity="center"
+                android:text="0.0"
+                android:textColor="@color/blue"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/averageSpeed"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1px"
+                android:background="@color/offyellow"
+                android:gravity="center"
+                android:text="0.0"
+                android:textColor="@color/blue"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/distance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1px"
+                android:background="@color/offyellow"
+                android:gravity="center"
+                android:text="0.00"
+                android:textColor="@color/blue"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/skyblue" >
+
+            <TextView
+                android:id="@+id/headingPace"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/skyblue"
+                android:text="Pace"
+                android:textColor="@color/offyellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/headingAltitude"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/skyblue"
+                android:text="Altitude"
+                android:textColor="@color/offyellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/headingDuration"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/skyblue"
+                android:text="Duration"
+                android:textColor="@color/offyellow"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/skyblue" >
+
+            <TextView
+                android:id="@+id/pace"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1px"
+                android:background="@color/offyellow"
+                android:gravity="center"
+                android:text="00.00"
+                android:textColor="@color/blue"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/altitude"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1px"
+                android:background="@color/offyellow"
+                android:gravity="center"
+                android:text="0.00"
+                android:textColor="@color/blue"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/timeElapsed"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="1px"
+                android:background="@color/offyellow"
+                android:gravity="center"
+                android:text="00:00:00"
+                android:textColor="@color/blue"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+
+    <fragment
+        android:id="@+id/mapit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_group"
+        android:layout_below="@+id/infoTable"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+    <ImageView
+        android:id="@+id/imageToMove"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/infoTable"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/transmit_blue"
+        android:focusableInTouchMode="true"
+        android:scaleType="fitXY"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/button_group"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/offyellow"
+        android:orientation="horizontal" >
+
+        <ToggleButton
+            android:id="@+id/onoff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/color_selector_on_off"
+            android:checked="false"
+            android:enabled="true"
+            android:gravity="center_horizontal"
+            android:onClick="ClickHandler"
+            android:textColor="@color/blue"
+            android:textOff="@string/start"
+            android:textOn="@string/stop"
+            android:textSize="22sp"
+            android:visibility="visible" />
+
+        <ToggleButton
+            android:id="@+id/pauseResume"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:gravity="center_horizontal"
+            android:textColor="@color/blue"
+            android:textOff="@string/resume"
+            android:textOn="@string/pause"
+            android:textSize="22sp"
+            android:visibility="gone" />
+
+        <ToggleButton
+            android:id="@+id/resumeLastActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@drawable/color_selector_off_on"
+            android:checked="true"
+            android:gravity="center_horizontal"
+            android:textColor="@color/blue"
+            android:textOff="@string/resume_last"
+            android:textOn="@string/newactivity"
+            android:textSize="22sp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+</RelativeLayout>

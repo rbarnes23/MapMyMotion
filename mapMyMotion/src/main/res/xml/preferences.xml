@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="account_category"
+        android:title="@string/personalInfoTitle" >
+        <PreferenceScreen
+            android:key="personalInfo"
+            android:summary="@string/accountcategorysubtitle"
+            android:title="@string/accountcategorytitle" >
+            <EditTextPreference
+                android:defaultValue=""
+                android:dialogMessage="@string/loginsettingdialogmessage"
+                android:dialogTitle="@string/loginsettingdialogtitle"
+                android:hint="athlete@mapmymotion.com"
+                android:key="login_settings"
+                android:summary="@string/loginsettingsummary"
+                android:title="@string/loginsettingstitle" />
+            <EditTextPreference
+                style="@style/styleBubble"
+                android:defaultValue="0"
+                android:dialogMessage="@string/loginmemberiddialogmessage"
+                android:dialogTitle="@string/loginmemberidtitle"
+                android:enabled="true"
+                android:key="login_memberid"
+                android:summary="@string/loginmemberidsummary"
+                android:title="@string/loginmemberidtitle" />
+        </PreferenceScreen>
+
+        <EditTextPreference
+            android:defaultValue="0.0"
+            android:dialogMessage="@string/weightGoalSummary"
+            android:dialogTitle="@string/weightGoalTitle"
+            android:hint="0.0"
+            android:key="weight_goal"
+            android:summary="@string/weightGoalSummary"
+            android:title="@string/weightGoalTitle" />
+        <EditTextPreference
+            android:defaultValue=""
+            android:dialogMessage="@string/paceGoalSummary"
+            android:dialogTitle="@string/paceGoalTitle"
+            android:hint="00:00"
+            android:key="pace_goal"
+            android:summary="@string/paceGoalSummary"
+            android:title="@string/paceGoalTitle" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="notification_options"
+        android:title="@string/notification_options_title" >
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/notificationDistanceInterval"
+            android:entryValues="@array/notificationDistanceIntervalValues"
+            android:key="notificationdistance_interval"
+            android:summary="@string/notificationdistance_interval_summary"
+            android:title="@string/notificationdistance_interval_title" />
+
+        <PreferenceScreen
+            android:key="voice_notifications"
+            android:summary="@string/voice_notifications_summary"
+            android:title="@string/voice_notifications_title" >
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="current_speed_cue"
+                android:summary="@string/current_speed_cue_summary"
+                android:title="@string/current_speed_cue_title" />
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="avg_speed_cue"
+                android:summary="@string/avg_speed_cue_summary"
+                android:title="@string/avg_speed_cue_title" />
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="avg_pace_cue"
+                android:summary="@string/avg_pace_cue_summary"
+                android:title="@string/avg_pace_cue_title" />
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="distance_cue"
+                android:summary="@string/distance_cue_summary"
+                android:title="@string/distance_cue_title" />
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="duration_cue"
+                android:summary="@string/duration_cue_summary"
+                android:title="@string/duration_cue_title" />
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="altitude_cue"
+                android:summary="@string/altitude_cue_summary"
+                android:title="@string/altitude_cue_title" />
+            <CheckBoxPreference
+                android:defaultValue="false"
+                android:key="current_time_cue"
+                android:summary="@string/current_time_cue_summary"
+                android:title="@string/current_time_cue_title" />
+
+            <ListPreference
+                android:defaultValue="200"
+                android:dependency="voice_notifications"
+                android:entries="@array/minpaceInterval"
+                android:entryValues="@array/minpaceIntervalValues"
+                android:key="minpace"
+                android:summary="@string/minpace_summary"
+                android:title="@string/minpace_title" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="user_options"
+        android:title="@string/user_options_title" >
+        <ListPreference
+            android:defaultValue="4"
+            android:entries="@array/autostartInterval"
+            android:entryValues="@array/autostartIntervalValues"
+            android:key="autostart"
+            android:summary="@string/autostartsummary"
+            android:title="@string/autostarttitle" />
+        <ListPreference
+            android:defaultValue="-1"
+            android:entries="@array/autostopInterval"
+            android:entryValues="@array/autostopIntervalValues"
+            android:key="autostop"
+            android:summary="@string/autostopsummary"
+            android:title="@string/autostoptitle" />
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/uom"
+            android:entryValues="@array/uomValue"
+            android:key="uom"
+            android:summary="@string/uomsummary"
+            android:title="@string/uomtitle" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="update_options"
+        android:title="@string/update_options_title" >
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/updateInterval"
+            android:entryValues="@array/updateIntervalValues"
+            android:key="updates_interval"
+            android:summary="@string/updates_interval_summary"
+            android:title="@string/updates_interval_title" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

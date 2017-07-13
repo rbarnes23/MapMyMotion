@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Customize dimensions originally defined in res/values/dimens.xml (such 
+		as screen margins) for sw600dp devices (e.g. 7" tablets) here. -->
+	<dimen name="dropdown_size">250dp</dimen>
+	<dimen name="text_size">18sp</dimen>
+	<dimen name="text_size_heading">22sp</dimen>
+	<dimen name="text_size_small">14sp</dimen>
+	<dimen name="billTo_size">250dp</dimen>
+	<dimen name="methodOfPayment_size">20dp</dimen>
+	<dimen name="billToLabel_size">225dp</dimen>
+	
+</resources>   

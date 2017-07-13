@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-ldpi/refresh.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-ldpi/refresh.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-ldpi/delete_normal.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-ldpi/delete_normal.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-ldpi/appicon.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-ldpi/appicon.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-ldpi/mercury.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-ldpi/mercury.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-ldpi/delete_pressed.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-ldpi/delete_pressed.png"
+    }
+]

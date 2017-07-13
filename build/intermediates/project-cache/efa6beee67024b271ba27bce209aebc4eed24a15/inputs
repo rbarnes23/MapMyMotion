@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\rbarn\StudioProjects\MapMyMotion\mapMyMotion\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=b7058398c0cc39e722fa6d42b081c5ff6f1f50fd
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

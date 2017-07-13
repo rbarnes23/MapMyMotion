@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\rbarn\StudioProjects\MapMyMotion\mapMyMotion\libs\achartengine-1.1.0.jar
+FILE_HASH=9932e3fb9fbe54e80873e77f72a99f79e33b3250
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

@@ -1,0 +1,4 @@
+#Sun Jul 02 13:02:19 EDT 2017
+base.0=/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

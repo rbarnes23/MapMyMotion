@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/chart"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:descendantFocusability="afterDescendants"
+    android:orientation="horizontal"
+    android:paddingBottom="6dip"
+    android:paddingTop="4dip" >
+
+    <TextView
+        android:id="@+id/activityDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:paddingRight="2dip"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/text_size"
+        android:textStyle="bold"
+        android:visibility="visible" >
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/activityWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:paddingRight="2dip"
+        android:text="tttttt"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/text_size"
+        android:textStyle="bold"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/pace"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/activityDate"
+        android:layout_margin="5dp"
+        android:background="@drawable/rounded_edges"
+        android:gravity="center"
+        android:paddingRight="2dip"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/text_size_heading"
+        android:textStyle="bold"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/distance"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBaseline="@+id/pace"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@+id/pace"
+        android:background="@drawable/rounded_edges"
+        android:gravity="center"
+        android:paddingRight="2dip"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/text_size_heading"
+        android:textStyle="bold"
+        android:visibility="visible" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/epochtime"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignBaseline="@+id/pace"
+        android:layout_margin="5dp"
+        android:layout_toRightOf="@+id/distance"
+        android:background="@drawable/rounded_edges"
+        android:gravity="center"
+        android:paddingRight="2dip"
+        android:textColor="@color/blue"
+        android:textSize="@dimen/text_size_heading"
+        android:textStyle="bold"
+        android:visibility="visible" >
+    </TextView>
+
+    <ImageView
+        android:id="@+id/syncToServer"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/pace"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/transmit_blue"
+        android:scaleType="fitXY"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/graphs"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignBaseline="@+id/syncToServer"
+        android:layout_below="@+id/pace"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/syncToServer"
+        android:background="@drawable/graph"
+        android:scaleType="fitXY"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/replayActivity"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignBaseline="@+id/syncToServer"
+        android:layout_below="@+id/pace"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/graphs"
+        android:background="@drawable/replay5"
+        android:scaleType="fitXY"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/deleteActivity"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignBaseline="@+id/syncToServer"
+        android:layout_below="@+id/pace"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/replayActivity"
+        android:background="@drawable/delete"
+        android:scaleType="fitXY"
+        android:visibility="visible" />
+
+
+    </RelativeLayout>

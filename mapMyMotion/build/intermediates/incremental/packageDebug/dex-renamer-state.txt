@@ -1,0 +1,7 @@
+#Sun Jul 02 13:02:19 EDT 2017
+base.0=/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c211e7e003caba6cd7ac7f391c86893c0892577
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f16d884681a18531e98495d13a36658765668e3/classes.dex
+base.1=/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f16d884681a18531e98495d13a36658765668e3
+file.0=/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c211e7e003caba6cd7ac7f391c86893c0892577/classes.dex

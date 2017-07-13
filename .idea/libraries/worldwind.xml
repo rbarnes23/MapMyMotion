@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="worldwind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mapMyMotion/libs/worldwind.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

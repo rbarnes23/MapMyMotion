@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="40dp"
+    android:background="@color/actionbar_orange"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/thumbImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/appicon"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="false"
+        android:background="@android:color/transparent"
+         />
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/thumbImage"
+        android:layout_centerHorizontal="true"
+        android:padding="2dip"
+        android:textSize="12sp"
+        android:textColor="@color/blue"
+        android:textStyle="normal"
+        android:gravity="center_horizontal"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/subTitle"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/title"
+        android:layout_marginLeft="5dip"
+        android:gravity="bottom"
+        android:padding="2dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/gray"
+        android:visibility="gone" />
+    
+
+</RelativeLayout>

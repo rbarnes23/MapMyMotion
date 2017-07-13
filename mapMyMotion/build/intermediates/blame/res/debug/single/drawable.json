@@ -1,0 +1,1146 @@
+[
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/rounded_corner_input.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/rounded_corner_input.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_empty.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\checkbox_empty.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\color_selector_off_on.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\color_selector_off_on.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/ic_drawer_am.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/ic_drawer_am.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mercury4848a.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/mercury4848a.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mercury3636a.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/mercury3636a.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/delete.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/delete.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/group_indicator.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/group_indicator.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-10.2.6.aar\\63296dbc9bd19ebfcaf01dc6152bc0a2\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\openarrow.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\openarrow.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mercury4848a.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\mercury4848a.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mercury3636a.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\mercury3636a.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/rounded_edges.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/rounded_edges.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\progress_horizontal_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/selector.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/selector.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\squarebox_input.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\squarebox_input.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/rectangle.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/selectable_background_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/selectable_background_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/color_selector_off_on.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/color_selector_off_on.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\transactionstransparent.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\transactionstransparent.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\closearrow.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\closearrow.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_textured_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\ab_background_textured_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/color_selector_on_off.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/color_selector_on_off.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/backgroundstateselector.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/backgroundstateselector.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\checkboxfull.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\checkboxfull.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\spinner_background_ab_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/btn_cab_done_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/btn_cab_done_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_moreinfo.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\btn_moreinfo.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/transactionstransparent.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/transactionstransparent.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/checkbox_empty.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/checkbox_empty.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/spinner_background_ab_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/spinner_background_ab_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/checkboxselector.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/checkboxselector.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\btn_cab_done_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/openarrow.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/openarrow.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/list_divider.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/list_divider.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner_input.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\rounded_corner_input.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mercury7272a.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/mercury7272a.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/rbarnes/.android/build-cache/d4cb9db54695c0d940cae56fb83d9e77572eeee4/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/tab_indicator_ab_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/squarebox_input.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/squarebox_input.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/btn_delete.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/btn_delete.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/btn_moreinfo.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/btn_moreinfo.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/progress_horizontal_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/progress_horizontal_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mercury7272a.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\mercury7272a.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/checkboxfull.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/checkboxfull.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\group_indicator.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\group_indicator.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/rounded_edges_yellow.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/rounded_edges_yellow.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\color_selector_on_off.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\color_selector_on_off.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_am.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\ic_drawer_am.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundstateselector.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\backgroundstateselector.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/closearrow.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/closearrow.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\ic_drawer.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edges_yellow.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\rounded_edges_yellow.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\tab_indicator_ab_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\list_divider.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/rbarnes/.android/build-cache/31afc0e1d27752e7250278d5ad0eff91d0d13b03/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edges.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\rounded_edges.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/rbarnes/.android/build-cache/cc1ac5d1f96991993e10921a552ddbb30a774559/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.6.aar\\a6e39c0d3de033c5f200cd54f1d0858c\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/ab_background_textured_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/ab_background_textured_mastertheme.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-10.2.6.aar\\8d8ef5d93163438c9e355b5a7bf59431\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
+        "source": "/home/rbarnes/.android/build-cache/ff95b8ac7fc89c7ab27891c2ce681bd0758d96e8/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\69604da3e7ed789a4f457d61c2ebe273\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable/ic_drawer.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable/ic_drawer.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\checkboxselector.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\checkboxselector.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_mastertheme.xml",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\drawable\\selectable_background_mastertheme.xml"
+    }
+]

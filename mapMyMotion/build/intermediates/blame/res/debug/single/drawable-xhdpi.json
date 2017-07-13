@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/btn_cab_done_pressed_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/btn_cab_done_pressed_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_selected_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/tab_selected_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/spinner_ab_disabled_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/spinner_ab_disabled_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/list_focused_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/list_focused_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ab_texture_tile_mastertheme.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ab_texture_tile_mastertheme.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/list_pressed_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/list_pressed_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/cab_background_bottom_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/cab_background_bottom_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/bubble_b.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/bubble_b.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/bubble_a.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/bubble_a.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_selected_focused_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/tab_selected_focused_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ab_bottom_solid_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ab_bottom_solid_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_unselected_focused_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/tab_unselected_focused_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/btn_cab_done_focused_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/btn_cab_done_focused_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ab_solid_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ab_solid_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/progress_primary_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/progress_primary_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/spinner_ab_focused_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/spinner_ab_focused_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/spinner_ab_pressed_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/spinner_ab_pressed_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ab_transparent_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ab_transparent_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/progress_secondary_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/progress_secondary_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/cab_background_top_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/cab_background_top_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_unselected_pressed_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/tab_unselected_pressed_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/spinner_ab_default_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/spinner_ab_default_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/btn_cab_done_default_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/btn_cab_done_default_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_selected_pressed_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/tab_selected_pressed_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/progress_bg_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/progress_bg_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/menu_dropdown_panel_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/menu_dropdown_panel_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ab_stacked_solid_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ab_stacked_solid_mastertheme.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/ab_texture_tile_apptheme.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/ab_texture_tile_apptheme.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_unselected_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/tab_unselected_mastertheme.9.png"
+    }
+]

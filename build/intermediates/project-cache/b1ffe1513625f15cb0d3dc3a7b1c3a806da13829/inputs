@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=C:\Users\rbarn\StudioProjects\MapMyMotion\mapMyMotion\libs\worldwind.jar
+FILE_HASH=17a0fcd1279243a99fb99949f69b3f4879b4a26b
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

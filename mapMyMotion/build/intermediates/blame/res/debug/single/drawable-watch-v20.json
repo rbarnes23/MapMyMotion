@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/rbarnes/.android/build-cache/00ce2660b6fa67419ccc1adc1199c9354be5b905/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/rbarnes/.android/build-cache/00ce2660b6fa67419ccc1adc1199c9354be5b905/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/rbarnes/.android/build-cache/00ce2660b6fa67419ccc1adc1199c9354be5b905/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

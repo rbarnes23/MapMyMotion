@@ -1,0 +1,82 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+
+
+
+    -->
+    <style name="CustomActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ActivityDialog" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/ab_solid_mastertheme</item>
+        <item name="android:colorBackground">@drawable/ab_solid_mastertheme</item>
+    </style>
+
+    <style name="ThemeDialogCustom">
+        <item name="android:background">@drawable/bonuspack_bubble</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowBackground">@color/transparent_color</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+
+    <style name="ImageMenu">
+
+        <!-- 3dp so the background border to be visible -->
+        <item name="android:padding">3dp</item>
+        <item name="android:background">@drawable/selector</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="boldItalicText">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="boldText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="normalText">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#C0C0C0</item>
+    </style>
+
+    <style name="smallText">
+        <item name="android:textColor">#151B8D</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="BackGroundColor">
+        <item name="android:background">#00FF00</item>
+    </style>
+
+    <style name="styleBubble" parent="style/Theme.Mastertheme.Widget">
+        <item name="android:background">@drawable/rounded_edges_yellow</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+    </style>
+
+    <style name="PreferenceStyle" parent="Theme.Mastertheme">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textColorPrimary">@color/azure</item>
+        <item name="android:textColorSecondary">@color/blue</item>
+        <!-- delete this line if you want transparent background -->
+    </style>
+
+</resources>

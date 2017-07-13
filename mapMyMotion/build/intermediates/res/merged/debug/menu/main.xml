@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mapproject.MainActivity" >
+
+      <item
+        android:id="@+id/commentactivity"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Comments"
+        android:titleCondensed="@string/preferences">
+    </item>
+    
+    
+    <item
+        android:id="@+id/preferences"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/preferences"
+        android:titleCondensed="@string/preferences">
+    </item>
+    <item
+        android:id="@+id/menu_about"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/about_menu_name"
+        android:titleCondensed="@string/about_menu_name">
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+</menu>

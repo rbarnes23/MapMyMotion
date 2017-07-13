@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MapMyMotion.iml" filepath="$PROJECT_DIR$/MapMyMotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapMyMotion/mapMyMotion.iml" filepath="$PROJECT_DIR$/mapMyMotion/mapMyMotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/securityLibrary/securityLibrary.iml" filepath="$PROJECT_DIR$/securityLibrary/securityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tokenLibrary/tokenLibrary.iml" filepath="$PROJECT_DIR$/tokenLibrary/tokenLibrary.iml" />
+    </modules>
+  </component>
+</project>

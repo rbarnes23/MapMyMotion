@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\src\\main\\res\\xml\\preferences.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/xml/preferences.xml"
     }

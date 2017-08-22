@@ -120,6 +120,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="connected">Connected</string>
     <string name="connectedtoserver">Conectado al servidor </string>
     <string name="current_speed_cue_summary">Notificación Velocidad actual</string>
     <string name="current_speed_cue_title">Habilitar Velocidad actual</string>
@@ -233,6 +234,7 @@
     <string name="noconnectiontoserver">No se puede establecer una conexión con </string>
     <string name="noemailclient">xxx</string>
     <string name="not_now">xxx</string>
+    <string name="notconnected">Not Connected</string>
     <string name="note">xxx</string>
     <string name="notification_interval_summary">Defina con qué frecuencia se llevarán a cabo las notificaciones</string>
     <string name="notification_interval_title">Notificaciones intervalo de</string>

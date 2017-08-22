@@ -1,17 +1,5 @@
 [
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_switch_thumb.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
@@ -24,24 +12,12 @@
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_tint_default.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
@@ -52,10 +28,6 @@
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
@@ -64,19 +36,7 @@
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     }
 ]

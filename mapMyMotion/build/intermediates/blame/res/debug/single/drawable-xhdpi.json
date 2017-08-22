@@ -28,12 +28,12 @@
         "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/cab_background_bottom_mastertheme.9.png"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/bubble_b.9.png",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/bubble_b.9.png"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/bubble_a.9.png",
         "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/bubble_a.9.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/bubble_b.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-xhdpi/bubble_b.9.png"
     },
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-xhdpi/tab_selected_focused_mastertheme.9.png",

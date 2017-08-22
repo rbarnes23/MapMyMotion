@@ -9,15 +9,24 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.view.View;
+import android.widget.Toast;
 
 import com.mapmymotion.services.ChatService;
 import com.mapmymotion.services.LocationIntentService;
 import com.mapmymotion.utilities.Utils;
 
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 
 import gov.nasa.worldwind.util.EGM96;
 
+import org.eclipse.paho.android.service.MqttAndroidClient;
+import org.eclipse.paho.client.mqttv3.IMqttActionListener;
+import org.eclipse.paho.client.mqttv3.IMqttToken;
+import org.eclipse.paho.client.mqttv3.MqttClient;
+import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
+import org.eclipse.paho.client.mqttv3.MqttException;
+import org.eclipse.paho.client.mqttv3.MqttMessage;
 //import android.content.IntentFilter;
 //import android.support.v4.widget.DrawerLayout;
 //import com.mapproject.services.LocationUpdateService;
@@ -29,6 +38,9 @@ import gov.nasa.worldwind.util.EGM96;
 public class MainActivity extends CustomFragmentActivity {
     private static EGM96 egm96;
     // private JSONObject jActivity;
+    private MqttAndroidClient client;
+    private String mStatus;
+    String clientId = MqttClient.generateClientId();
 
     public static Handler mUiHandler = null;
     String mMessage;
@@ -51,6 +63,7 @@ public class MainActivity extends CustomFragmentActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         sContext = this;
+
 //		try {
 //			DBUtils.importData(getApplicationContext(), "motion");
 //		} catch (IOException e1) {
@@ -132,6 +145,7 @@ public class MainActivity extends CustomFragmentActivity {
                         break;
                     case Constants.UPDATEDATA:
                         sendChatMessage(msg);
+                        sendPayload(msg.toString(), 1);
                         // sendDataToRightDrawer(msg);
                         // String message = bundle.getString("message");
                         // message="{\"to\":[183,2,124],\"reply\":true,\"self\":true,\"NS\":\"mapmymotion\",\"memberid\":\"5\",\"type\":\"getmessage\",\"_id\":\"1348877065\"}";
@@ -171,6 +185,41 @@ public class MainActivity extends CustomFragmentActivity {
                 LocationIntentService.class);
 
         startService(locationIntent);
+
+        // Set up MQTT
+        String MQTTHOST = "tcp://mapmymotion.com";
+        String USERNAME = "rbarnes";
+        String PASSWORD = "sasha23";
+
+        client = new MqttAndroidClient(this.getApplicationContext(), MQTTHOST,
+                clientId);
+        MqttConnectOptions options = new MqttConnectOptions();
+        options.setUserName(USERNAME);
+        options.setPassword(PASSWORD.toCharArray());
+
+
+        try {
+            IMqttToken token = client.connect(options);
+            token.setActionCallback(new IMqttActionListener() {
+                @Override
+                public void onSuccess(IMqttToken asyncActionToken) {
+                    // We are connected
+                    mStatus = getString(R.string.connected);
+                    Toast.makeText(MainActivity.this, mStatus, Toast.LENGTH_LONG).show();
+                    sendPayload(mStatus, 0);
+                }
+
+                @Override
+                public void onFailure(IMqttToken asyncActionToken, Throwable exception) {
+                    // Something went wrong e.g. connection timeout or firewall problems
+                    mStatus = getString(R.string.notconnected);
+                    Toast.makeText(MainActivity.this, mStatus, Toast.LENGTH_LONG).show();
+
+                }
+            });
+        } catch (MqttException e) {
+            e.printStackTrace();
+        }
 
         // DBUtils.exportDB(sContext);
 
@@ -261,6 +310,20 @@ public class MainActivity extends CustomFragmentActivity {
 
         }
 
+    }
+
+    void sendPayload(String payload, int qos) {
+        String topic = "BARNES123";
+        //byte[] encodedPayload; //= new byte[0];
+        try {
+            //encodedPayload = payload.getBytes("UTF-8");
+            MqttMessage message = new MqttMessage(payload.getBytes("UTF-8"));
+            message.setQos(qos);
+            client.publish(topic, message);
+            //client.publish(topic, message.getBytes(), 0, false);
+        } catch (UnsupportedEncodingException | MqttException e) {
+            e.printStackTrace();
+        }
     }
 
     // send message to service

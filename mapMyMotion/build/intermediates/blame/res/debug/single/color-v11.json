@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },

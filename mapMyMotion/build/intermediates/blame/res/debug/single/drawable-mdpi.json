@@ -136,12 +136,12 @@
         "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-mdpi/marker_destination.png"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_pressed_mastertheme.9.png",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-mdpi/spinner_ab_pressed_mastertheme.9.png"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-mdpi/mercury.png",
         "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-mdpi/mercury.png"
+    },
+    {
+        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-mdpi/spinner_ab_pressed_mastertheme.9.png",
+        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/src/main/res/drawable-mdpi/spinner_ab_pressed_mastertheme.9.png"
     },
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-mdpi/btn_cab_done_pressed_mastertheme.9.png",

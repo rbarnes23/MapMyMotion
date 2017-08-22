@@ -11,31 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/home/rbarnes/.android/build-cache/84944ff56e8d25b294a1e828c2c1a1b2aff3ffa4/output/res/values-en-rCA/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 244,
-                        "endColumn": 99,
-                        "endOffset": 343
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\values-en-rCA\\values-en-rCA.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 103,
-                    "endOffset": 154
-                },
-                "from": {
-                    "file": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-wallet-10.2.6.aar\\4cc52ad1b7c0e2f2531cf8bf5d6c4a84\\res\\values-en-rCA\\values.xml",
+                    "file": "/home/rbarnes/.android/build-cache/11843accf50102672bd9fe7d69023c72a46b7ef6/output/res/values-en-rCA/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

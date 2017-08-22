@@ -23,12 +23,21 @@ android {
     }
 }
 
+repositories {
+    maven {
+        url "https://repo.eclipse.org/content/repositories/paho-releases/"
+    }
+}
+
 dependencies {
     compile project(':securityLibrary')
     compile project(':tokenLibrary')
-    compile 'com.android.support:appcompat-v7:19.1.0'
+    compile 'com.android.support:appcompat-v7:25.1.0'
     compile 'com.google.android.gms:play-services:+'
     compile files('libs/achartengine-1.1.0.jar')
     compile files('libs/org.apache.http.legacy.jar')
     compile files('libs/worldwind.jar')
+    compile('org.eclipse.paho:org.eclipse.paho.android.service:1.0.2') {
+        exclude module: 'support-v4'
+    }
 }

@@ -1,34 +1,18 @@
 [
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
-        "source": "/home/rbarnes/.android/build-cache/8af00ea3db4d6495e48d06c48c653f95244d7d98/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+        "source": "/home/rbarnes/.android/build-cache/4b4c11d53e22c314751b43d1d6c0615d22875df0/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
     },
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
-        "source": "/home/rbarnes/.android/build-cache/8af00ea3db4d6495e48d06c48c653f95244d7d98/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-10.2.6.aar\\dc78ddb9a521d454e9087ed85ebda5d4\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-10.2.6.aar\\dc78ddb9a521d454e9087ed85ebda5d4\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-10.2.6.aar\\dc78ddb9a521d454e9087ed85ebda5d4\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+        "source": "/home/rbarnes/.android/build-cache/4b4c11d53e22c314751b43d1d6c0615d22875df0/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
     },
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
-        "source": "/home/rbarnes/.android/build-cache/8af00ea3db4d6495e48d06c48c653f95244d7d98/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+        "source": "/home/rbarnes/.android/build-cache/4b4c11d53e22c314751b43d1d6c0615d22875df0/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
     },
     {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
-        "source": "/home/rbarnes/.android/build-cache/8af00ea3db4d6495e48d06c48c653f95244d7d98/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-10.2.6.aar\\dc78ddb9a521d454e9087ed85ebda5d4\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+        "source": "/home/rbarnes/.android/build-cache/4b4c11d53e22c314751b43d1d6c0615d22875df0/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
     }
 ]

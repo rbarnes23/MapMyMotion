@@ -229,5 +229,6 @@
     <string name="paceGoalSummary">Enter Pace Goal</string>
     <string name="deleteEvent">Delete Event </string>
     <string name="importData">Import Data</string>
-    
+    <string name="connected">Connected</string>
+    <string name="notconnected">Not Connected</string>
 </resources>

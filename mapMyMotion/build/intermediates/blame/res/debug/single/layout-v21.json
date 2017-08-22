@@ -4,14 +4,6 @@
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-10.2.6.aar\\db2744e161109eba25d107c210b5dec4\\res\\layout-v21\\place_autocomplete_fragment.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\layout-v21\\notification_action.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/layout-v21/notification_template_custom_big.xml"
     },
@@ -20,23 +12,11 @@
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/home/rbarnes/.android/build-cache/038594727acc4d5f95a8a14164157bd8e7b0037d/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
         "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/home/rbarnes/.android/build-cache/b00e319617d8ae41bfbc083e8ddd6775688ce347/output/res/layout-v21/place_autocomplete_fragment.xml"
-    },
-    {
-        "merged": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\StudioProjects\\MapMyMotion\\mapMyMotion\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "/home/rbarnes/Documents/StudioProjects/MapMyMotion/C:\\Users\\rbarn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.2.0.aar\\a05cfd2d1cfbbdcaef03fa40e25a870b\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "/home/rbarnes/.android/build-cache/9b54072d160361dbafaf579d8362af85eb15ed11/output/res/layout-v21/place_autocomplete_fragment.xml"
     }
 ]

@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/fba9df85577313445a5e3bdfd8facba40f84206d/output/jars/classes.jar"
+        jar="/home/rbarnes/.android/build-cache/b36336052585b549a3e7bc471cbda0453b655f83/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d5e5839a221029f42393e90bc49e4471f1b2ae3/classes.dex" />
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b680c517a8d61347f20e5330743ec89105086cad/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,30 +30,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/bdd79c9bfbafb99238f412f21c143720fa57a9c2/output/jars/classes.jar"
+        jar="/home/rbarnes/.android/build-cache/7a3a925de75abf9e53d35ebc55551b92ae02071a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2c4f8c5a2cd1549119f5feb3be09dbf4a225494/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/eb2ba9b14ec0046366d8f53621d44aec038153d3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ec0b7121672787fa68235dec10b32c54f850e60/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/99afa4b35017503178f425036a86e90384ca6532/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cb28451698276c84f125eea58cc9743da2c92ae/classes.dex" />
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84834bead7951f62d05e1ad1ca42777c77aefd90/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +48,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/010f27efb2b7b14a0ea186c4b421f91ae7e2aa39/output/jars/classes.jar"
+        jar="/home/rbarnes/.android/build-cache/51fc2f15d2e4af414a8ace1a67f9609569a1af10/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74544a2489f081669d7949094cc1cd511f58892e/classes.dex" />
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c52a100bbc5d5e5cdcb9389f667d05ecd5ca8dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rbarnes/.android/build-cache/001087ae813794e40af91b5e62d0b112ef37e083/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7166096c8219833f60792bca814a05d8cd6d96ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rbarnes/.android/build-cache/c49dfdae94a6260bb5a33a37b5b39703c6561485/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53022401df099ca5a2744a816d72a9b90f79ba6b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -79,17 +79,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="88a275f9a0140a724aeac3d3a091e12084565003">
+        sha1="b4d82f13919b371deaf2509332bbf32d737d4710">
         <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c211e7e003caba6cd7ac7f391c86893c0892577/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f16d884681a18531e98495d13a36658765668e3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,30 +93,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/f3ba5db711f31cb6f6b928888df3a2356a32f0a4/output/jars/classes.jar"
+        jar="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a1fed66acad68baf2eeb97f740aed7639a42b96/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/25ee8ffeeb4acc4430c7513424c9fbecd68e2f78/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98ddc84f01f19eebdcef0c8cad08386f3d964f8a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/rbarnes/.android/build-cache/fba050ef3832fee2e201dd99ac510a53baedd634/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f260cdc1a267b17b911022919f19d568e6624229">
-        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba5a537a2d71d89eb49711d534e5cff6a03b80e3/classes.dex" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/rbarnes/Documents/StudioProjects/MapMyMotion/mapMyMotion/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f16d884681a18531e98495d13a36658765668e3/classes.dex" />
     </item>
 
 </items>

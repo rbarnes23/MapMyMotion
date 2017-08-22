@@ -960,6 +960,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="connected">Connected</string>
     <string name="connectedtoserver">Connected to server </string>
     <string name="current_speed_cue_summary">Current Speed Notification</string>
     <string name="current_speed_cue_title">Enable Current Speed</string>
@@ -1075,6 +1076,7 @@
     <string name="noconnectiontoserver">Can not establish connection to </string>
     <string name="noemailclient">No Email Clients installed</string>
     <string name="not_now">Not Now</string>
+    <string name="notconnected">Not Connected</string>
     <string name="note">Note</string>
     <string name="notification_interval_summary">Define how often notifications will be performed</string>
     <string name="notification_interval_title">Notifications interval</string>
